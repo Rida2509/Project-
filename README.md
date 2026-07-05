@@ -1,4 +1,3 @@
-# Project-
 # Capital Structure Determinants - Trade-off Theory vs Pecking Order Theory
 
 An empirical capital structure model built in Python to test whether the financing behavior of US public companies follows Trade-off Theory or Pecking Order Theory, using firm-level financial data derived from SEC filings.
